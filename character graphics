@@ -1,8 +1,9 @@
-#Name:  Gianni Resk
-#Email: gianni.resk95@myhunter.cuny.edu
-#Date: September 11, 2020
-#this program prints:a wave of blue
-#include <iostream>
+//Name:  Gianni Resk
+
+//Email: gianni.resk95@myhunter.cuny.edu
+
+//include <iostream>
+
 using namespace std;
 
 int main()
